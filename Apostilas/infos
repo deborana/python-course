@@ -1,0 +1,40 @@
+//segunda, tera, quarta e quinta -> 19:30
+
+aula 01 - Python power up 
+- automatização de tarefas
+- obj: cadastrar produtos em uma base de dados
+- (21) 96721-8715
+
+//treinar bloquear note e abrir
+//pause: faz uma pausa a cada comando do autogui
+//sleep: faz uma pausa somente onde está sendo feita a pausa
+
+
+Para fazer o download do Arquivo da Aula: https://drive.google.com/drive/folders/1ERaraa4ZeXWFWo4K8oNJi4kY6aGZYdzw
+
+//link do sistema
+Para acessar o controle de estoque fictício da Hashtag: https://dlp.hashtagtreinamentos.com/python/intensivao/login
+
+Instalando o VSCode para Python: https://www.youtube.com/watch?v=Zy3ia...
+
+Instalando o Jupyter dentro do VSCode: https://www.youtube.com/watch?v=2a87x...
+
+Programando horário para rodar seu código: https://www.youtube.com/watch?v=SxEjH...
+
+
+//aula 02 - Análise de dados
+
+//habilitar jupyter dentro do vscode
+https://www.youtube.com/watch?v=2a87xGLDFTQ&t=0s
+
+//dados que não ajudam atrapalham
+
+#ipynb -> arquivo do jupyter notebook
+  permite que a gente module os códigos
+
+//aula 03 inteligência artificial e previsões
+
+- modelo de ia: 
+
+- y: qual a coluna de dados que queremos prever?
+- x: todas as outras colunas q serão usadas p fazer essa previsão
