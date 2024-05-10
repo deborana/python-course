@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=2a87xGLDFTQ&t=0s
 
 - y: qual a coluna de dados que queremos prever?
 - x: todas as outras colunas q serão usadas p fazer essa previsão
+
+//aula 04:
+
+deploy -> flet (publish flet app)
